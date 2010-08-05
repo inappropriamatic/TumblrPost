@@ -1,0 +1,8 @@
+TumblrPost
+
+A simple python class for posting images to Tumblr.
+
+It only posts images right now, because that is all I am interested in.  If you want to extend it, consult tumblr.com/api for more information.
+
+
+inappropriamatic@gmail.com
